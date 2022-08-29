@@ -1,0 +1,86 @@
+body
+{
+    background-attachment: fixed;
+    /* background-color:antiquewhite; */
+    background-image: url('../img/pexels-simon-berger-1323550.jpg');
+    background-size: cover;
+}
+
+nav{
+    position: fixed;
+    top: 0;
+    height: 70px;
+    background-color: #F95738;
+    width: 100%;
+}
+header{
+    /* height:fit-content; */
+    height: 700px;
+    text-align: center;
+    padding-top: 10%;
+    font-size: xx-large;
+    color:darkblue;
+}
+.section1{
+    height:fit-content;
+    text-align: center;
+    font-size: xx-large;
+    color:crimson;
+    /* background-color:burlywood; */
+    /* background-image: url('../img/download.png'); */
+}
+
+span{
+    color: #082846;
+    width: 50%;
+    background-color:#F4D35E;
+    display: inline-block;
+    margin-top: 2%;
+    padding: 20px; 
+    border-radius: 30px;
+}
+span img{
+    width: 100%;
+   /* background-size: cover; */
+}
+
+span iframe{
+    width: 100%;
+   /* background-size: cover; */
+}
+
+header img{
+    width:15%
+}
+
+footer{
+    background-color:#F95738;
+    text-align: center;
+    padding: 2%;
+    color: white;
+}
+
+footer p{
+    margin: 0%;
+}
+nav{
+
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+nav img{
+    height: 75%;
+    
+
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    list-style: none;
+    
+}
+nav ul li a{
+    text-decoration: none;
+}
+
